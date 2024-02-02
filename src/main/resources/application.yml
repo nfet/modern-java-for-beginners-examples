@@ -1,0 +1,10 @@
+## Application Properties
+spring:
+  application:
+    name: "Modern Java for Beginners"
+
+logging:
+  charset:
+    console: UTF-8
+  level:
+    root: info
