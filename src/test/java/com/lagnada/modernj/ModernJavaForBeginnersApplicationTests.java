@@ -1,4 +1,4 @@
-package com.lagnada.modernjavaforbeginners.examples;
+package com.lagnada.modernj;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

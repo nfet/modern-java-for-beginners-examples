@@ -1,4 +1,4 @@
-package com.lagnada.modernjavaforbeginners.examples;
+package com.lagnada.modernj;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
