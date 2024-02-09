@@ -1,6 +1,7 @@
 package com.lagnada.modernj.fundamentals.oo;
 
 class MathOperations {
+  // Method overloading for 'add' method
   int add(int a, int b) {
     return a + b;
   }

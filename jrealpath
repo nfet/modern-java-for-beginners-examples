@@ -1,0 +1,19 @@
+#!/usr/bin/env java --source 21
+
+import java.nio.file.Path;
+
+/**
+ * Example: ./jrealpath ~/Downloads
+ *   /User/bob/Downloads
+ */
+public class JRealPath {
+
+  public static void main(String[] args) {
+    if (args.length == 0) {
+      System.out.println("Usage: jrealpath <path>");
+      return;
+    }
+    System.out.printf("%s%n", Path.of(args[0]).toAbsolutePath());
+  }
+
+}
