@@ -1,4 +1,4 @@
-package com.lagnada.modernj.chapter17;
+package com.lagnada.modernj.httpclient;
 
 import java.net.URI;
 import java.net.http.HttpClient;

@@ -1,4 +1,6 @@
-package com.lagnada.modernj.fundamentals.oo;
+package com.lagnada.modernj.oo;
+
+import java.util.stream.LongStream;
 
 public class Person {
   private String name; // Private attribute
@@ -16,5 +18,9 @@ public class Person {
   // Setter for name
   public void setName(String name) {
     this.name = name;
+  }
+
+  public static void main(String[] args) {
+
   }
 }

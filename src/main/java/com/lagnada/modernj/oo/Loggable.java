@@ -1,4 +1,4 @@
-package com.lagnada.modernj.fundamentals.oo;
+package com.lagnada.modernj.oo;
 
 public interface Loggable {
   static void log(String message) {

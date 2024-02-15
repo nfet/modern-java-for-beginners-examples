@@ -1,4 +1,4 @@
-package com.lagnada.modernj.fundamentals.oo;
+package com.lagnada.modernj.oo;
 
 // Superclass
 class Animal {

@@ -1,4 +1,4 @@
-package com.lagnada.modernj.fundamentals.oo;
+package com.lagnada.modernj.oo;
 
 public interface Computable {
   private static int privateCalculationMethod(int value) {
